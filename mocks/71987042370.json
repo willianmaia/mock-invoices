@@ -1,0 +1,63 @@
+{
+   "apiVersion":"1;2020-02-23",
+   "transactionId":"b82b125e-5458-4857-ab2d-8325213adf3d",
+   "data":{
+      "invoices":[
+         {
+            "billAmount":"52.8",
+            "paymentDueDate":"2026-01-12-03:00",
+            "status":"Aberta",
+            "billCode":"848100000008528001622023601121869535386015271230",
+            "name":"JESSICA FERREIRA SANTOS DE LIMA",
+            "partyIdentificationNumber":"05359181516",
+            "telephoneNumber":"71987042370",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"30.58",
+            "paymentDueDate":"2026-01-12-03:00",
+            "status":"Aberta",
+            "billCode":"848600000007305801622026601121869578884014271232",
+            "name":"JESSICA FERREIRA SANTOS DE LIMA",
+            "partyIdentificationNumber":"05359181516",
+            "telephoneNumber":"71982545684",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"40.78",
+            "paymentDueDate":"2025-12-12-03:00",
+            "status":"Aberta",
+            "billCode":"848600000007407801622029512121869534386016271234",
+            "name":"JESSICA FERREIRA SANTOS DE LIMA",
+            "partyIdentificationNumber":"05359181516",
+            "telephoneNumber":"71987042370",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"30.53",
+            "paymentDueDate":"2025-12-12-03:00",
+            "status":"Aberta",
+            "billCode":"848800000000305301622027512121869577884015271236",
+            "name":"JESSICA FERREIRA SANTOS DE LIMA",
+            "partyIdentificationNumber":"05359181516",
+            "telephoneNumber":"71982545684",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         }
+      ]
+   },
+   "pagination":{
+      "X-Total-Count":"4"
+   }
+}

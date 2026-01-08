@@ -1,0 +1,76 @@
+{
+   "apiVersion":"1;2020-02-23",
+   "transactionId":"a5bbd9e1-f86d-467c-9fc7-fc95d67e2ca0",
+   "data":{
+      "invoices":[
+         {
+            "billAmount":"34.27",
+            "paymentDueDate":"2026-01-10-03:00",
+            "status":"Aberta",
+            "billCode":"848500000005342701622029601101427154007104219235",
+            "name":"RITA DE CASSIA BUENO",
+            "partyIdentificationNumber":"06878536804",
+            "telephoneNumber":"19994424767",
+            "paymentMethod":"DCC",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"70.33",
+            "paymentDueDate":"2026-01-12-03:00",
+            "status":"Aberta",
+            "billCode":"848400000003703301622026601121067196555304219230",
+            "name":"RITA DE CASSIA BUENO",
+            "partyIdentificationNumber":"06878536804",
+            "telephoneNumber":"19991688549",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"71.85",
+            "paymentDueDate":"2025-12-12-03:00",
+            "status":"Aberta",
+            "billCode":"848700000009718501622028512121067195555305219234",
+            "name":"RITA DE CASSIA BUENO",
+            "partyIdentificationNumber":"06878536804",
+            "telephoneNumber":"19991688549",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"68.17",
+            "paymentDueDate":"2026-01-12-03:00",
+            "status":"Aberta",
+            "billCode":"848000000006681701622029601128496327944320219231",
+            "name":"RITA DE CASSIA BUENO",
+            "partyIdentificationNumber":"06878536804",
+            "telephoneNumber":"19991393726",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"63.32",
+            "paymentDueDate":"2025-12-12-03:00",
+            "status":"Aberta",
+            "billCode":"848900000002633201622020512128496326944321219235",
+            "name":"RITA DE CASSIA BUENO",
+            "partyIdentificationNumber":"06878536804",
+            "telephoneNumber":"19991393726",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         }
+      ]
+   },
+   "pagination":{
+      "X-Total-Count":"5"
+   }
+}

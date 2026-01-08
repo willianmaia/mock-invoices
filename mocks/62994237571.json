@@ -1,0 +1,89 @@
+{
+   "apiVersion":"1;2020-02-23",
+   "transactionId":"ddde3849-c9bc-47a6-a586-f48321b91e87",
+   "data":{
+      "invoices":[
+         {
+            "billAmount":"68.72",
+            "paymentDueDate":"2026-01-10-03:00",
+            "status":"Aberta",
+            "billCode":"848900000002687201622029601101755615680061261234",
+            "name":"EDSON NONATO DE SOUZA",
+            "partyIdentificationNumber":"93152191120",
+            "telephoneNumber":"62994237571",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"64.01",
+            "paymentDueDate":"2025-12-10-03:00",
+            "status":"Aberta",
+            "billCode":"848900000002640101622020512101755614680062261238",
+            "name":"EDSON NONATO DE SOUZA",
+            "partyIdentificationNumber":"93152191120",
+            "telephoneNumber":"62994237571",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"49.34",
+            "paymentDueDate":"2025-11-10-03:00",
+            "status":"Aberta",
+            "billCode":"848900000002493401622024511101755616680063261231",
+            "name":"EDSON NONATO DE SOUZA",
+            "partyIdentificationNumber":"93152191120",
+            "telephoneNumber":"62994237571",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"68.79",
+            "paymentDueDate":"2025-08-10-03:00",
+            "status":"Aberta",
+            "billCode":"848000000006687901622021508101755616680064261235",
+            "name":"EDSON NONATO DE SOUZA",
+            "partyIdentificationNumber":"93152191120",
+            "telephoneNumber":"62994237571",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"67.23",
+            "paymentDueDate":"2025-07-10-03:00",
+            "status":"Aberta",
+            "billCode":"848000000006672301622022507101755618680065261239",
+            "name":"EDSON NONATO DE SOUZA",
+            "partyIdentificationNumber":"93152191120",
+            "telephoneNumber":"62994237571",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"36.53",
+            "paymentDueDate":"2025-06-10-03:00",
+            "status":"Aberta",
+            "billCode":"848000000006365301622020506101755610680066261232",
+            "name":"EDSON NONATO DE SOUZA",
+            "partyIdentificationNumber":"93152191120",
+            "telephoneNumber":"62994237571",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         }
+      ]
+   },
+   "pagination":{
+      "X-Total-Count":"6"
+   }
+}

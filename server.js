@@ -45,7 +45,7 @@ function loadMockFile(msisdn) {
  * GET /mobile/v1/invoices?page=1&limit=50
  * msisdn pode vir na query (?msisdn=) OU no header x-querystring
  */
-app.get("/mobile/v1/invoices", (req, res) => {
+app.get("/domains/v1/invoices", (req, res) => {
   try {
     const msisdn = extractMsisdn(req);
 

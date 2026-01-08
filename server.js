@@ -69,9 +69,6 @@ app.get("/mobile/v1/invoices", (req, res) => {
 
     Object.entries(headers).forEach(([k, v]) => res.setHeader(k, String(v)));
 
-    // injeta coisas úteis se você quiser (opcional)
-    mock.request = { msisdn, page, limit };
-
     // remove metadados antes de responder
     delete mock.__status;
     delete mock.__headers;

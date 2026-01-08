@@ -1,0 +1,11 @@
+{
+  "__status": 200,
+  "__headers": {
+    "x-mock": "true"
+  },
+  "status": "OK",
+  "invoices": [
+    { "id": "INV-001", "amount": 120.5, "dueDate": "2026-01-20" },
+    { "id": "INV-002", "amount": 89.9, "dueDate": "2026-02-20" }
+  ]
+}

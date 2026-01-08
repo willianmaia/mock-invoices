@@ -53,7 +53,7 @@ app.get("/domains/v1/invoices", (req, res) => {
       return res.status(400).json({
         code: "INVALID_REQUEST",
         message:
-          "msisdn é obrigatório (via query ?msisdn=... ou header x-querystring: msisdn=...)"
+          "msisdn é obrigatório (via header x-querystring: msisdn=...)"
       });
     }
 

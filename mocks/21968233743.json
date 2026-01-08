@@ -1,0 +1,50 @@
+{
+   "apiVersion":"1;2020-02-23",
+   "transactionId":"ed7199ce-9416-4926-853b-6df5ee3e26a1",
+   "data":{
+      "invoices":[
+         {
+            "billAmount":"300.84",
+            "paymentDueDate":"2026-01-08",
+            "status":"Aberta",
+            "billCode":"846800000032008401622025601080380004003959990205",
+            "name":"DANIELLE FARIA DUNHAM",
+            "partyIdentificationNumber":"08681036750",
+            "customerAccountId":"038035053899",
+            "origin":"NETSMS",
+            "company":"NET",
+            "paymentMethod":"BOLETO",
+            "isCombomulti":"true"
+         },
+         {
+            "billAmount":"44.89",
+            "paymentDueDate":"2026-01-15-03:00",
+            "status":"Aberta",
+            "billCode":"848400000003448901622028601151689462925003221230",
+            "name":"DANIELLE FARIA DUNHAM",
+            "partyIdentificationNumber":"08681036750",
+            "telephoneNumber":"21975363477",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"38.42",
+            "paymentDueDate":"2026-01-15-03:00",
+            "status":"Aberta",
+            "billCode":"848300000001384201622025601151677936322025221230",
+            "name":"DANIELLE FARIA DUNHAM",
+            "partyIdentificationNumber":"08681036750",
+            "telephoneNumber":"21968233743",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         }
+      ]
+   },
+   "pagination":{
+      "X-Total-Count":"3"
+   }
+}

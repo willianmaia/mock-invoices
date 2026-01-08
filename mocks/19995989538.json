@@ -1,0 +1,37 @@
+{
+   "apiVersion":"1;2020-02-23",
+   "transactionId":"01c5c974-20d1-4ca4-8d3a-293c46d702a9",
+   "data":{
+      "invoices":[
+         {
+            "billAmount":"35.58",
+            "paymentDueDate":"2026-01-10-03:00",
+            "status":"Aberta",
+            "billCode":"848400000003355801622022601101828680252013219230",
+            "name":"MARIA BEATRIZ VIEIRA DE OLIVEIRA",
+            "partyIdentificationNumber":"02784263878",
+            "telephoneNumber":"19995989538",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         },
+         {
+            "billAmount":"30.65",
+            "paymentDueDate":"2025-12-10-03:00",
+            "status":"Aberta",
+            "billCode":"848700000009306501622029512101828689252014219234",
+            "name":"MARIA BEATRIZ VIEIRA DE OLIVEIRA",
+            "partyIdentificationNumber":"02784263878",
+            "telephoneNumber":"19995989538",
+            "paymentMethod":"BOLETO",
+            "company":"CLARO",
+            "origin":"MOBILE",
+            "chargeType":"MAIN"
+         }
+      ]
+   },
+   "pagination":{
+      "X-Total-Count":"2"
+   }
+}

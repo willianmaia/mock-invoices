@@ -1,0 +1,23 @@
+{
+   "apiVersion":"1;2020-02-23",
+   "transactionId":"e31e8144-2560-41f4-b2dd-2670d2b19598",
+   "data":{
+      "invoices":[
+         {
+            "billAmount":"185.25",
+            "paymentDueDate":"2026-01-10",
+            "status":"Aberta",
+            "billCode":"846800000016852501622025601102820003003530765233",
+            "name":"MANOEL ALVES DA SILVA NETO",
+            "partyIdentificationNumber":"46462846852",
+            "customerAccountId":"282001321124",
+            "origin":"NETSMS",
+            "company":"NET+CLARO+EBT",
+            "paymentMethod":"BOLETO"
+         }
+      ]
+   },
+   "pagination":{
+      "X-Total-Count":"1"
+   }
+}

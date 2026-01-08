@@ -1,0 +1,15 @@
+{
+  "__status": 500,
+  "apiVersion": "1;2020-02-23",
+  "transactionId": "f9e5fdbe-bf73-403d-a78f-e0307bc83b28",
+  "error": {
+    "httpCode": "500",
+    "errorCode": "API-INVOICES-500",
+    "message": "Internal Server Error",
+    "detailedMessage": "Backend: Falha ao obter faturas - CLARO",
+    "link": {
+      "rel": "related",
+      "href": "https://api.claro.com.br/docs"
+    }
+  }
+}
